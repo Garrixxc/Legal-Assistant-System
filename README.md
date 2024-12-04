@@ -11,7 +11,6 @@
   - [Getting started](#getting-started)
   - [Screenshots of Website](#screenshots-of-the-website)
   - [Contributors](#contributors)
-  - [License](#license)
 
 ## About The Project
 
@@ -226,8 +225,8 @@ python app.py
 
 ## Contributors
 - [Gaurav Salvi](https://github.com/Garrixxc)
-- [Heer Shah]()
-- [Anusha Manchi]()
+- [Heer Shah](https://github.com/Heershah4337)
+- [Anusha Manchi](https://github.com/anusha190397)
 
 ## References
 - [LawRato](https://lawrato.com/legal-documents) for the dataset of legal documents.
